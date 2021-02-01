@@ -14,7 +14,7 @@ A website created to take a city as an input and display the weather today(shows
 * The first screenshot shows the website without any inputs.
 ![screenshot of the password generator](./assets/images/screenshot-1.png)
 
-* The second screenshot shows when a city is inputed.
+* The second screenshot shows when a city is inputted.
 ![screenshot of the password generator](./assets/images/screenshot-2.png)
 
 ## Link to Website
